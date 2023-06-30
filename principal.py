@@ -1,3 +1,6 @@
+# Aluno 1: Vinícius Silva Ribeiro
+# Aluno 2: Cauê Ribeiro Gomes dos Santos 
+
 class Cliente:
 
     def __init__(self, cpf: str, nome: str, idade: int):
